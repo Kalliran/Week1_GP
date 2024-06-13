@@ -1,0 +1,14 @@
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\bin\Debug\net8.0\Week1_GP.exe
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\bin\Debug\net8.0\Week1_GP.deps.json
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\bin\Debug\net8.0\Week1_GP.runtimeconfig.json
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\bin\Debug\net8.0\Week1_GP.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\bin\Debug\net8.0\Week1_GP.pdb
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\Week1_GP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\Week1_GP.AssemblyInfoInputs.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\Week1_GP.AssemblyInfo.cs
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\Week1_GP.csproj.CoreCompileInputs.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\Week1_GP.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\refint\Week1_GP.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\Week1_GP.pdb
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\Week1_GP.genruntimeconfig.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\obj\Debug\net8.0\ref\Week1_GP.dll
