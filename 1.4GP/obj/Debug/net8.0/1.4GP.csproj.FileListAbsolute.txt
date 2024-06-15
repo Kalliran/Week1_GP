@@ -1,0 +1,15 @@
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\bin\Debug\net8.0\1.4GP.exe
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\bin\Debug\net8.0\1.4GP.deps.json
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\bin\Debug\net8.0\1.4GP.runtimeconfig.json
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\bin\Debug\net8.0\1.4GP.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\bin\Debug\net8.0\1.4GP.pdb
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.AssemblyInfoInputs.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.AssemblyInfo.cs
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.csproj.CoreCompileInputs.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.sourcelink.json
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\refint\1.4GP.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.pdb
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\1.4GP.genruntimeconfig.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\Week1_GP\1.4GP\obj\Debug\net8.0\ref\1.4GP.dll
